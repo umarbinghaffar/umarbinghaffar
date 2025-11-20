@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Umar abdul Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" width="400"  alt="image" src="https://github.com/user-attachments/assets/b3ac738e-93fa-4059-b618-e468e3929a08" />
+<img align="right" width="400" alt="image" src="https://github.com/user-attachments/assets/98bea44d-cbc8-40dd-b862-916e66e7d01f" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarbinghaffar&label=Profile%20views&color=0e75b6&style=flat" alt="umarbinghaffar" /> </p>
