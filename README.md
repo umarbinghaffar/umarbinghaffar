@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar abdul Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/embedded/download/Ozf.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsgif.com%2Fgif%2F2937863&psig=AOvVaw2mk4hBtdAV5lzzL7Axav0x&ust=1763749591381000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjl2rqtgZEDFQAAAAAdAAAAABAX">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarbinghaffar&label=Profile%20views&color=0e75b6&style=flat" alt="umarbinghaffar" /> </p>
 
