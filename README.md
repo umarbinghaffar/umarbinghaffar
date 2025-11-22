@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Umar abdul Rehman</h1>
+<h1>Hi 👋, I'm Umar Abdul Rehman</h1>
 <h3>A passionate frontend developer from Pakistan</h3>
 
 <img align="center" width="400" alt="image" src="https://github.com/user-attachments/assets/98bea44d-cbc8-40dd-b862-916e66e7d01f" />
